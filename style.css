@@ -1,0 +1,53 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s, color 0.3s;
+    text-align: center;
+}
+
+header {
+    background-color: brown;
+    color: #fcf3f6;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 20px;
+}
+
+ul {
+    margin: 3px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    background-color: brown;
+    color: #fcf3f6
+}
+
+#photo {
+    display: block;
+    border: 1px solid black;
+    margin-left: 390px;
+    margin-right: 390px;
+    padding : 10px;
+    background-color: #d0c59b;
+    width: 35%;
+}
+
+#skillset {
+    display: table;
+    margin-left: 560px;
+    margin-right: 560px;
+    text-align: left;
+}
+
+#about-me {
+    text-align: center;
+}
